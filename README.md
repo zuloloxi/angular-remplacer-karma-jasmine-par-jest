@@ -22,3 +22,6 @@ Use `npm run start` or `yarn start` to start concurrently json-server and Web Se
 
 ## 05-Hero-App-Service-Tested
 Same app with tested service.
+
+# Lien utile :
+CheatSheet (https://github.com/sapegin/jest-cheat-sheet/blob/master/Readme.md) qui regroupe différentes méthodes disponibles au niveau de l’API pour effectuer vos tests avec Jest.
