@@ -30,3 +30,9 @@ CheatSheet (https://github.com/sapegin/jest-cheat-sheet/blob/master/Readme.md) q
 (https://github.com/ahasall/angular-jest-demo) setting
 (https://stackoverflow.com/questions/58498885/angular-8-and-jest-file-not-found-jest-preset-angular-inlinehtmlstripstylestr) Angular 8 and jest - File not found: jest-preset-angular/InlineHtmlStripStylesTransformer.js
 
+# git fetch all
+```
+git branch -r | grep -v '\->' | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
+git fetch --all
+git pull --all
+```
