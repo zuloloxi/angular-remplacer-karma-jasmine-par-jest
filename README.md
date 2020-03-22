@@ -25,3 +25,8 @@ Same app with tested service.
 
 # Lien utile :
 CheatSheet (https://github.com/sapegin/jest-cheat-sheet/blob/master/Readme.md) qui regroupe différentes méthodes disponibles au niveau de l’API pour effectuer vos tests avec Jest.
+(https://jestjs.io/docs/en/getting-started) jest docs
+(https://itnext.io/how-i-do-configure-jest-to-test-my-angular-8-project-2bd84a21d725) Config 
+(https://github.com/ahasall/angular-jest-demo) setting
+(https://stackoverflow.com/questions/58498885/angular-8-and-jest-file-not-found-jest-preset-angular-inlinehtmlstripstylestr) Angular 8 and jest - File not found: jest-preset-angular/InlineHtmlStripStylesTransformer.js
+
